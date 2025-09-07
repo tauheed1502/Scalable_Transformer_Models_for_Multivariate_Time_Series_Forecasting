@@ -1,1 +1,3 @@
-# Scalable_Transformer_Models_for_Multivariate_Time_Series_Forecasting
+# Time Series Forecasting
+
+Deep learning and statistical models for financial and macroeconomic time-series forecasting.
